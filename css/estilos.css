@@ -32,6 +32,11 @@ body{
 }
 
 .post{
-    padding: 1em;
+    padding: 1em
+}
 
+.pie{
+    text-align: center;
+    background-color: #333;
+    color: white;
 }
